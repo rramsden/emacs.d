@@ -19,3 +19,7 @@
 (depends-on "inf-ruby")
 (depends-on "linum-relative")
 (depends-on "smart-mode-line")
+(depends-on "js2-mode")
+(depends-on "rinari")
+(depends-on "elscreen")
+(depends-on "scss-mode")

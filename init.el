@@ -22,3 +22,5 @@
 
 (setq init-loader-show-log-after-init nil)
 (init-loader-load "~/.emacs.d/inits")
+
+(global-set-key (kbd "<C-p>") 'helm-projectile-find-file)

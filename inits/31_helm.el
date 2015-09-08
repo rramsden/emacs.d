@@ -17,3 +17,6 @@
 
 (setq projectile-completion-system 'helm)
 (helm-projectile-on)
+
+;; evil mode
+(define-key evil-normal-state-map (kbd "C-p") 'helm-projectile-find-file)
