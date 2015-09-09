@@ -23,3 +23,6 @@
 (depends-on "rinari")
 (depends-on "elscreen")
 (depends-on "scss-mode")
+(depends-on "evil-leader")
+(depends-on "web-mode")
+(depends-on "magit")
